@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angular,Reactjs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/linarajhi/portfolio-](https://github.com/linarajhi/portfolio-)
+-  👨‍💻 All of my projects are available at [https://github.com/linarajhi2023/portfolio-2023](https://github.com/linarajhi2023/portfolio-2023)
 
 - 💬 Ask me about **MERN**
 
